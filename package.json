@@ -4,6 +4,7 @@
   "description": "Minimal React toolchain from scratch with npm, webpack and Babel",
   "main": "index.js",
   "scripts": {
+    "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development"
   },
   "keywords": [],
