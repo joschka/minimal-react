@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Minimal React toolchain from scratch with Yarn, webpack and Babel",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development"
