@@ -1,7 +1,7 @@
 {
   "name": "minimal-react",
   "version": "1.0.0",
-  "description": "Minimal React toolchain from scratch with npm, webpack and Babel",
+  "description": "Minimal React toolchain from scratch with Yarn, webpack and Babel",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
